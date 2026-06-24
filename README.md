@@ -21,7 +21,6 @@
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [Security Considerations](#security-considerations)
-- [Future Roadmap](#future-roadmap)
 
 ---
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Nexus** — Event Operations Platform. A full-stack Next.js 16 app for managing event registrations, check-ins, and meal distribution via QR codes.
+**Nexus** — Role-Based Event Operations Platform. A full-stack Next.js 16 app for managing event registrations, check-ins, and meal distribution via QR codes.
 
 ## Commands
 
